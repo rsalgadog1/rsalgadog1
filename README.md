@@ -18,6 +18,6 @@ I love taking the risk of going out my comfort zone to growth as a person.
   
 ### 📫 How to reach me:
 - r.salgado.g1@gmail.com
-- linkedin.com/in/rodrigosalgado-g/
+- https://www.linkedin.com/in/rodrigosalgado-g/
 
 </div>
