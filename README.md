@@ -1,16 +1,23 @@
-## Hi there 👋
+## ¡ Welcome ! 👋
 
-<!--
-**rsalgadog1/rsalgadog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
 
-Here are some ideas to get you started:
+I'm a data analyst who is looking to apply the love to details and diving deep into research in the professional field as well to expand my abilities and skills using SQL, Python, and Excel. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love taking the risk of going out my comfort zone to growth as a person. 
+
+### Technical skills:
+
+<div id="header" align="left">
+<img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="python"/>
+  </a>
+<img decoding="async" src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge" alt="sql"/>
+  </a>
+<img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="excel"/>
+  </a>
+  
+### 📫 How to reach me:
+- r.salgado.g1@gmail.com
+- linkedin.com/in/rodrigosalgado-g/
+
+</div>
